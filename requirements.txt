@@ -1,4 +1,7 @@
-pillow==10.3.0
-requests==2.32.2
-streamlit==1.25.0
-
+streamlit
+image
+requests
+json
+smtplib
+MIMEText
+MIMEMultipart
