@@ -1,7 +1,5 @@
-matplotlib==3.7.1
-matplotlib-inline==0.1.6
+matplotlib==3.8.4
 numpy==1.26.4
-numpydoc==1.4.0
 pandas==2.2.2
 streamlit==1.25.0
 
