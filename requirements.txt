@@ -1,7 +1,6 @@
 streamlit
 image
 requests
-json
 smtplib
 MIMEText
 MIMEMultipart
