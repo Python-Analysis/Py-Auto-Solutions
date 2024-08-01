@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: py-auto-solutions
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "streamlit run streamlit_app.py"
+    plan: free  # or another plan as per your choice
